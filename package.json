@@ -1,5 +1,5 @@
 {
-  "name": "@Nirav-smartSense/librarycomponent",
+  "name": "@smart-nirav/librarycomponent",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -60,7 +60,7 @@
     ]
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@Nirav-smartSense"
+    "registry": "https://npm.pkg.github.com/@smart-nirav"
   }
   
 }
