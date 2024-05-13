@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: 18
           registry-url: https://npm.pkg.github.com/
-          scope: "@Nirav-smartSense"
+          scope: "@{Nirav-smartSense}"
       - run: npm install
       - run: npm run test
       - run: npm run build
